@@ -1,0 +1,8 @@
+Time,Load (kW),Reason
+00–05,8–12,"Mostly chargers, a few fans"
+05–07,20–35,"Students wake up, bathrooms and lights"
+07–09,35–45,Morning activity
+09–17,12–20,Most students away
+17–19,45–60,Students return
+19–22,70–75,"Lights, fans, laptop charging, study time"
+22–24,35–50,Lights begin turning off
